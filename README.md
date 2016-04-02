@@ -6,7 +6,7 @@ This is an attempt to create an artificial player for the game CodeWords.  In it
 
 The player currently outputs some 'ok' clues.  Most are just giberish though.  Work could be done on the hueristics and triviality size.  Also, the scaling between clues of different sizes could be investigated.
 
-'''
+```
 [Shirt, Bleach, Pajamas, Gallop, Freight, Opaque, Mistake, Skate, Pomp, Cliff]
 Clue: VicHealth, 2
 Targets:  [Bleach, Pajamas, Gallop]
@@ -31,6 +31,4 @@ Assassin: [Fix]
 Clue: Sing, 3
 Targets:  [Princess, Wheelchair, Song]
 Assassin: [Dart]
-
-
-'''
+```
